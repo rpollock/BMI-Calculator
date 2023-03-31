@@ -1,2 +1,2 @@
 # BMI-Calculator
-Simple C# BMI Calculator project
+Simple C# BMI Calculator project.
