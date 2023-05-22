@@ -35,7 +35,7 @@ namespace BMICalculator
 
         static double calculateBMI(double weight, double height)
         {
-            // Convert inches into meter
+            // Convert inches into meters
             double meterHeight = height * 0.0254;
             // Convert our weight into kilograms
             double kilogramWeight = weight * 0.453592;
